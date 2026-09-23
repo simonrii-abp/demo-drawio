@@ -2,15 +2,14 @@
 
 A dependency-free demo of the official diagrams.net embed mode and GitHub Markdown workflow.
 
-![Architecture diagram](diagrams/architecture.drawio.svg)
-
+![Architecture diagram](diagrams/architecture.drawio.svg?v=20260923-1)
 
 ## GitHub Markdown
 
 GitHub renders an editable PNG or SVG like any other image:
 
 ```markdown
-![Architecture diagram](diagrams/architecture.drawio.svg)
+![Architecture diagram](diagrams/architecture.drawio.svg?v=20260923-1)
 ```
 
 The checked-in SVG includes a copy of the diagram XML in its `content` attribute. For diagrams exported manually, select **File > Export as > SVG** and enable **Include a copy of my diagram**.
