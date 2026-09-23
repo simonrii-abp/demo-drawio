@@ -1,23 +1,23 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="771px" height="383px" viewBox="-0.5 -0.5 771 383" content="&lt;mxfile&gt;&lt;diagram id=&quot;architecture&quot; name=&quot;Architecture&quot;&gt;zZVNj5swEIZ/DdfKmA0k16Tb5NCckNpeDR7AWoORcZakv742DIlZulIr0Wq5AO/MgOd9/BFEh/p61KytzoqDDCjh1yD6HFB7JU/25pTbqIRkk4xKqQVH7SGk4idMiaheBIdulmiUkka0czFXTQO5mWlMa9XP0wol539tWQkLIc2ZXKrfBTcVqmG8ewROIMoKf72l2F/NpmTspKsYV70nRc9BdNBKmfGpvh5AOvcmX8a6L+9E7wPT0Jg/KcicGaDHslcmL9jhftQpjtLcpta1ujQcXHUYRPu+EgbSluUu2lvaVqtMLTFcCCkPSio91EZ8WxRPhdU7o9ULeJEwoSTkrkI15j09xVG4Ly/7xNZfQRu4ehL2fQRVg9E3m4LRHUEGOAtpvB3few9pgjmVRzNBVxjOovL+6YfR9gG9/r3vlerMwvTTIBLWtlLkzAjVBDR2LhDb8Y/z18DB3A88lHZTdE04xXB9FDjRGzgTB4/NfTfw2exWYANcWH8XdLhgpWZ196kB43GBOgPuTKfEL1yNSpxt6EelEsX/EUspTHXJFliOwpycTM5Mv9i91F8zDgjLrAOUpN+Oq4Ih26Sw59hfgLkvsH8AJqZv9rLNci9bC4x9fZxPQ8w75qPnXw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="711px" height="553px" viewBox="-0.5 -0.5 711 553" content="&lt;mxfile&gt;&lt;diagram id=&quot;architecture&quot; name=&quot;Architecture&quot;&gt;zZVNb4MwDEB/DXcg5WPHjXXdZadO2jltDIkacBXCaPfrF4rbglilTWqncgGebYhfEsVjWblbGL6VbyhAe6Evdh579kJ3JTN368i+J4EfJT0pjBLEzmCpvuCYSLRRAupRokXUVm3HcI1VBWs7YtwYbMdpOerxX7e8gAlYrrme0g8lrCQaxA/nwCuoQtKv05D6K/kxmTqpJRfYDhCbeywziLZ/KncZ6M7e0Utf93IhehqYgcr+pmDVyQDTl31y3VCH77yqaIR2f2zbYFMJ6CoDjz21UllYbvm6i7Zuph2TttQUzpXWGWo0h1om0jyf5Y7X1uAGBpEgCf1AdBVY2Ut8SaPovjztkdr+BGNhN0DU8wKwBGv2LoWi6Yz80wqMInpvB9OZEJODmUxCWkW0gorTp8+S3QN5/tm5xNpOhL81lbqu8fxw3Ytx5o+NJ1Php+09FP5wBeEglMXpGn9tik65/3hl7fEqCu9VO4v/0XuhrGxWE+9exrw0MvUGi6ua99Mkd0fLH8yftsgNzMfh2HwYpTcz717PR8YhNjh52fwb&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <g>
-            <rect x="600" y="198" width="170" height="72" rx="10.8" ry="10.8" fill="#d8ff4f" stroke="#17201d" pointer-events="all" style="fill: light-dark(rgb(216, 255, 79), rgb(21, 54, 0)); stroke: light-dark(rgb(23, 32, 29), rgb(206, 213, 211));"/>
+            <rect x="540" y="480" width="170" height="72" rx="10.8" ry="10.8" fill="#d8ff4f" stroke="#17201d" pointer-events="all" style="fill: light-dark(rgb(216, 255, 79), rgb(21, 54, 0)); stroke: light-dark(rgb(23, 32, 29), rgb(206, 213, 211));"/>
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 234px; margin-left: 601px;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 516px; margin-left: 541px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #17201d; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#17201d, #ced5d3); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
-                                    Browser2
+                                    Tann
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
-                    <text x="685" y="238" fill="#17201d" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">
-                        Browser2
+                    <text x="625" y="520" fill="#17201d" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">
+                        Tann
                     </text>
                 </switch>
             </g>
@@ -32,15 +32,13 @@
                         <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 46px; margin-left: 1px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #17201d; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#17201d, #ced5d3); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
-                                    Host application
-                                    <br/>
-                                    XML + storage
+                                    Munin
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
                     <text x="105" y="50" fill="#17201d" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">
-                        Host application...
+                        Munin
                     </text>
                 </switch>
             </g>
@@ -55,15 +53,13 @@
                         <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 336px; margin-left: 1px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #17201d; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#17201d, #ced5d3); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
-                                    diagrams.net
-                                    <br/>
-                                    embedded editor
+                                    Hugin A
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
                     <text x="105" y="340" fill="#17201d" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">
-                        diagrams.net...
+                        Hugin A
                     </text>
                 </switch>
             </g>
@@ -78,15 +74,13 @@
                         <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 234px; margin-left: 321px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #ffffff; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#ffffff, #121212); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
-                                    GitHub Markdown
-                                    <br/>
-                                    editable SVG
+                                    Årskog
                                 </div>
                             </div>
                         </div>
                     </foreignObject>
                     <text x="425" y="238" fill="#ffffff" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">
-                        GitHub Markdown...
+                        Årskog
                     </text>
                 </switch>
             </g>
