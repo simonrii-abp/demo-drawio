@@ -1,14 +1,14 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="661px" height="273px" viewBox="-0.5 -0.5 661 273" content="&lt;mxfile&gt;&lt;diagram id=&quot;architecture&quot; name=&quot;Architecture&quot;&gt;zZVNb6MwEIZ/DdfKmBKSa7Ld5LA5Ie3u1eABrBqMjFOS/vq1YZIY0UqtRFflArwzA5738UcQ7erzXrO2OioOMqCEn4PoR0DtlTzam1MuoxKSOBmVUguO2l1IxStcE1E9CQ7dJNEoJY1op2KumgZyM9GY1qqfphVKTv/ashJmQpozOVf/CG4qVMPV5h44gCgr/PWaYn81uyZjJ13FuOo9KXoKop1WyoxP9XkH0rl39WWs+/lO9DYwDY35SEHmzAA9lr0wecIOt6NOcZTmcm1dq1PDwVWHQbTtK2EgbVnuor2lbbXK1BLDhZByp6TSQ23E10XxWFi9M1o9gxcJE0pC7ipUY97TUxyF+/K8T2z9BbSBsydh33tQNRh9sSkYTTbIAGchjfC995AmqFUezQRdYTiLytun70bbB/T6bd8r1ZmZ6YdBJKxtpciZEaoJ6Mq5QGzHf4+/AgdzO/BQ2k3RJeEUw/Vd4ERkCieZs7ntBj6bzQJsgAvr74wOF6zUrO4eGjAeF6gz4M50SvzCxaissph+Vyo0/o9YSmGqUzbDshfm4GRyZPrZ7qX+mnFAWGYdoCT9vV8UDFknhT3HPgHmtsC+AEwcT8GEb+xlS4Gxr/fzaYh5x3z09A8=&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" style="background: transparent; background-color: transparent;" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="771px" height="383px" viewBox="-0.5 -0.5 771 383" content="&lt;mxfile&gt;&lt;diagram id=&quot;architecture&quot; name=&quot;Architecture&quot;&gt;zZVNj5swEIZ/DdfKmA0k16Tb5NCckNpeDR7AWoORcZakv742DIlZulIr0Wq5AO/MgOd9/BFEh/p61KytzoqDDCjh1yD6HFB7JU/25pTbqIRkk4xKqQVH7SGk4idMiaheBIdulmiUkka0czFXTQO5mWlMa9XP0wol539tWQkLIc2ZXKrfBTcVqmG8ewROIMoKf72l2F/NpmTspKsYV70nRc9BdNBKmfGpvh5AOvcmX8a6L+9E7wPT0Jg/KcicGaDHslcmL9jhftQpjtLcpta1ujQcXHUYRPu+EgbSluUu2lvaVqtMLTFcCCkPSio91EZ8WxRPhdU7o9ULeJEwoSTkrkI15j09xVG4Ly/7xNZfQRu4ehL2fQRVg9E3m4LRHUEGOAtpvB3few9pgjmVRzNBVxjOovL+6YfR9gG9/r3vlerMwvTTIBLWtlLkzAjVBDR2LhDb8Y/z18DB3A88lHZTdE04xXB9FDjRGzgTB4/NfTfw2exWYANcWH8XdLhgpWZ196kB43GBOgPuTKfEL1yNSpxt6EelEsX/EUspTHXJFliOwpycTM5Mv9i91F8zDgjLrAOUpN+Oq4Ih26Sw59hfgLkvsH8AJqZv9rLNci9bC4x9fZxPQ8w75qPnXw==&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
         <g>
-            <rect x="490" y="160" width="170" height="72" rx="10.8" ry="10.8" fill="#d8ff4f" stroke="#17201d" pointer-events="all" style="fill: light-dark(rgb(216, 255, 79), rgb(21, 54, 0)); stroke: light-dark(rgb(23, 32, 29), rgb(206, 213, 211));"/>
+            <rect x="600" y="198" width="170" height="72" rx="10.8" ry="10.8" fill="#d8ff4f" stroke="#17201d" pointer-events="all" style="fill: light-dark(rgb(216, 255, 79), rgb(21, 54, 0)); stroke: light-dark(rgb(23, 32, 29), rgb(206, 213, 211));"/>
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 196px; margin-left: 491px;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 168px; height: 1px; padding-top: 234px; margin-left: 601px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #17201d; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#17201d, #ced5d3); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
                                     Browser2
@@ -16,7 +16,7 @@
                             </div>
                         </div>
                     </foreignObject>
-                    <text x="575" y="200" fill="#17201d" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">
+                    <text x="685" y="238" fill="#17201d" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">
                         Browser2
                     </text>
                 </switch>
@@ -46,13 +46,13 @@
             </g>
         </g>
         <g>
-            <rect x="0" y="180" width="210" height="92" rx="13.8" ry="13.8" fill="#ff6b52" stroke="#17201d" pointer-events="all" style="fill: light-dark(rgb(255, 107, 82), rgb(221, 94, 72)); stroke: light-dark(rgb(23, 32, 29), rgb(206, 213, 211));"/>
+            <rect x="0" y="290" width="210" height="92" rx="13.8" ry="13.8" fill="#ff6b52" stroke="#17201d" pointer-events="all" style="fill: light-dark(rgb(255, 107, 82), rgb(221, 94, 72)); stroke: light-dark(rgb(23, 32, 29), rgb(206, 213, 211));"/>
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 226px; margin-left: 1px;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 336px; margin-left: 1px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #17201d; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#17201d, #ced5d3); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
                                     diagrams.net
@@ -62,20 +62,20 @@
                             </div>
                         </div>
                     </foreignObject>
-                    <text x="105" y="230" fill="#17201d" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">
+                    <text x="105" y="340" fill="#17201d" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">
                         diagrams.net...
                     </text>
                 </switch>
             </g>
         </g>
         <g>
-            <rect x="250" y="60" width="210" height="92" rx="13.8" ry="13.8" fill="#087f74" stroke="#17201d" pointer-events="all" style="fill: light-dark(rgb(8, 127, 116), rgb(71, 173, 164)); stroke: light-dark(rgb(23, 32, 29), rgb(206, 213, 211));"/>
+            <rect x="320" y="188" width="210" height="92" rx="13.8" ry="13.8" fill="#087f74" stroke="#17201d" pointer-events="all" style="fill: light-dark(rgb(8, 127, 116), rgb(71, 173, 164)); stroke: light-dark(rgb(23, 32, 29), rgb(206, 213, 211));"/>
         </g>
         <g>
             <g transform="translate(-0.5 -0.5)">
                 <switch>
                     <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 106px; margin-left: 251px;">
+                        <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 234px; margin-left: 321px;">
                             <div style="box-sizing: border-box; font-size: 0; text-align: center; color: #ffffff; ">
                                 <div style="display: inline-block; font-size: 12px; font-family: &quot;Helvetica&quot;; color: light-dark(#ffffff, #121212); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; word-wrap: normal; ">
                                     GitHub Markdown
@@ -85,7 +85,7 @@
                             </div>
                         </div>
                     </foreignObject>
-                    <text x="355" y="110" fill="#ffffff" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">
+                    <text x="425" y="238" fill="#ffffff" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">
                         GitHub Markdown...
                     </text>
                 </switch>
